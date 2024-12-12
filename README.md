@@ -8,8 +8,8 @@ How to Run ->
 
 1. Create a virtual environment : python -m venv venv
 2. Activate the virtual environment : venv\Scripts\activate on Windows or venv/bin/activate on Linux
-3. Install the required packages: pip install pandas
-                                  pip install matplotlib
+3. Install the required packages: pip install pandas,
+                                  pip install matplotlib,
                                   pip install streamlit
 4. Run the Streamlit app: streamlit run app.py
 5. Open the provided URL in your web browser
